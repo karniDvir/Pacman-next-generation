@@ -55,5 +55,5 @@ cd Pacman-next-generation
 <h2>💬 Contact & Feedback</h2>
 <p>
   For suggestions or questions, feel free to open an issue or contact me:<br />
-  <a href="mailto:karnidv@edu.hac.ac.il">dkarni07@gmail.com</a>
+  <a href="mailto:dkarni07@gmail.com">dkarni07@gmail.com</a>
 </p>
